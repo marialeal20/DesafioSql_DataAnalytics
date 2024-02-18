@@ -148,4 +148,4 @@ for usuario in dados:
 
 
 conexao.commit() #As informações serão enviados no banco 
-conexao.close #Precisa fechar para não dar conflito no gerenciamento do pc
+conexao.close 
